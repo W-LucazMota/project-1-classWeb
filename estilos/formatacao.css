@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-    background-image: url(imagens/bg-4.jpg);
+    background-image: url(../imagens/bg-3.jpg);
     background-size: cover;
     background-position: right center;
     margin-bottom: 25px;
@@ -39,6 +39,7 @@ body {
 ul {
     text-align: right;
 }
+
 .header li {
     list-style: none;
     display: inline-block;
@@ -63,7 +64,6 @@ section {
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 10px;
-    
 }
 
 .section {
