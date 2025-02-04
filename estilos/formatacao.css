@@ -80,8 +80,11 @@ section {
 .a_section {
     background-color: #80808083;
     text-decoration: none;
+    display: block;
     padding: 7px;
     border-radius: 10px;
+    margin-left: auto;
+    width: fit-content;
 }
 
 footer {
